@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34931#The-Woman-of-Mystery
 gutenberg_issued: '2011-01-13'
 gutenberg_type: Text
 identifiers:
