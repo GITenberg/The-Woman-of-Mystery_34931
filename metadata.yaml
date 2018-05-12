@@ -1,0 +1,33 @@
+_repo: The-Woman-of-Mystery_34931
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Matzke, Albert
+    gutenberg_agent_id: '37329'
+    url: http://www.gutenberg.org/2009/agents/37329
+covers:
+- cover_type: archival
+  image_path: 34931-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34931'
+  lccn: '16015596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: The Woman of Mystery
+url: http://www.gutenberg.org/ebooks/34931
